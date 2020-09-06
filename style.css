@@ -8,12 +8,31 @@ body{
    }
 
    .continoer{
-       
-    flex-flow: column;
+
+    /* width: 1000px; */
+
+    /* height: 500px; */
+     
+    flex-basis: 5vw;
+
 
     background-color: lavender;
-   }
+    
+ } 
 
-  button{
-      background-color: lightblue;
-  }
+img{
+    width: 350px;
+
+    height: 350px;
+
+    padding: 10px;
+
+}
+
+
+  
+  
+
+     
+       
+    
