@@ -3,5 +3,17 @@ body{
     background-color: #cccccc;
    }
    hr{
-       border-color: salmon;
+       border-color: black;
+
    }
+
+   .continoer{
+       
+    flex-flow: column;
+
+    background-color: lavender;
+   }
+
+  button{
+      background-color: lightblue;
+  }
