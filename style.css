@@ -1,66 +1,66 @@
-        body {
-            background-image: url("paper.gif");
-            background-color: #cccccc;
-        }
-        
-        hr {
-            border-color: black;
-        }
-        
-        .container {
-            padding: 10px 10px 30px;
-            flex-basis: 5vw;
-            background-color: lavender;
-            padding-bottom: 60px;
-            margin: 60px;
-        }
-        
-        img {
-            width: 350px;
-            height: 350px;
-            padding: 10px;
-            margin: 20px;
-        }
-        
-        h1 {
-            margin: 20px;
-        }
-        
-        #row2 {
-            margin-left: 10px;
-            margin-right: 10px;
-        }
-        
-        .card {
-            float: left;
-            margin: 20px;
-        }
-        
-        p {
-            margin: 30px;
-        }
-        
-        button {
-            margin: 60px;
-        }
-        
-        .form-group {
-            width: 60%;
-            margin: 35px;
-        }
-        
-        #index-img {
-            margin: 0px;
-        }
-        
-        footer {
-            display: block;
-            width: 100%;
-            background-color: grey;
-            padding: 20px 0px;
-        }
-        
-        h2 {
-            font-size: 20px;
-            text-align-last: center;
-        }
+            body {
+                background-image: url("paper.gif");
+                background-color: #cccccc;
+            }
+            
+            hr {
+                border-color: black;
+            }
+            
+            .container {
+                padding: 10px 10px 30px;
+                flex-basis: 5vw;
+                background-color: lavender;
+                padding-bottom: 60px;
+                margin: 60px;
+            }
+            
+            img {
+                width: 350px;
+                height: 350px;
+                padding: 10px;
+                margin: 20px;
+            }
+            
+            h1 {
+                margin: 20px;
+            }
+            
+            #row2 {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+            
+            .card {
+                float: left;
+                margin: 20px;
+            }
+            
+            p {
+                margin: 30px;
+            }
+            
+            button {
+                margin: 60px;
+            }
+            
+            .form-group {
+                width: 60%;
+                margin: 35px;
+            }
+            
+            #index-img {
+                margin: 0px;
+            }
+            
+            footer {
+                display: block;
+                width: 100%;
+                background-color: grey;
+                padding: 20px 0px;
+            }
+            
+            h2 {
+                font-size: 20px;
+                text-align-last: center;
+            }

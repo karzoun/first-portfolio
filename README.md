@@ -1,13 +1,13 @@
 # 
-# _{# first-portfolio}_
+# _ First Portfolio_
 
 
 
-#### By _**{Ahmad Al-Karzoun}**_
+#### By _**Ahmad Al-Karzoun**_
 
 ## Description
 
-_{I created this website after learning HTML and CSS . }_
+I created this website after learning HTML and CSS . 
 
 
 
@@ -16,14 +16,12 @@ _{I created this website after learning HTML and CSS . }_
 
 ## Technologies Used
 
-_{I used 
+I used to create
 HTML
 CSS
 BootstrapCDN 
-.}_
 
-### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
-Copyright (c) 2020 **_{Ahmad Al-Karzoun}_**
+
+Copyright (c) 2020 **_Ahmad Al-Karzoun_**
