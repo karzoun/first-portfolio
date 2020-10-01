@@ -64,3 +64,11 @@
                 font-size: 20px;
                 text-align-last: center;
             }
+            
+            #resume {
+                padding: 10px 10px 30px;
+                flex-basis: 10vw;
+                background-color: lavender;
+                padding-bottom: 60px;
+                margin: 10px;
+            }
